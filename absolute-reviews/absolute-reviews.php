@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       Absolute Reviews
  * Description:       Add beautiful responsive and modern review boxes with valid JSON-LD schema to your posts with the "Advanced Reviews" plugin.
- * Version:           1.1.3
+ * Version:           1.1.4
  * Author:            Code Supply Co.
  * Author URI:        https://codesupply.co
  * License:           GPL-2.0+
@@ -60,6 +60,5 @@ function abr_init() {
 
 	$plugin = new ABR();
 	$plugin->run();
-
 }
 abr_init();

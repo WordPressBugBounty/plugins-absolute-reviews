@@ -75,9 +75,9 @@
 			*/
 			setSignature: function() {
 
-				var label = '<span>' + $( this ).data( 'label' ) + '</span>';
+				var label = $('<div>').text( $( this ).data( 'label' ) ).html();
 
-				var value = $( this ).val() ? $( this ).val() : label;
+				var value = $('<div>').text( $( this ).val() ? $( this ).val() : label ).html();
 
 				$( this ).parents( '.row-content' ).find( '.signature' ).html( value );
 			},

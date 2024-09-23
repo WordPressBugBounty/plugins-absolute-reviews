@@ -3,7 +3,7 @@ Tags: reviews, rating, review, schema.org
 Requires at least: 4.0
 Tested up to: 6.6
 Requires PHP: 5.4
-Stable tag: 1.1.3
+Stable tag: 1.1.4
 Contributors: codesupplyco
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -15,6 +15,9 @@ Add beautiful responsive and modern review boxes with valid JSON-LD schema to yo
 Add beautiful responsive and modern review boxes with valid JSON-LD schema to your posts with the “Advanced Reviews” plugin.
 
 == Changelog ==
+
+= 1.1.4 =
+* Improved plugin security
 
 = 1.1.3 =
 * Added compatibility with WordPress 6.6
@@ -29,7 +32,7 @@ Add beautiful responsive and modern review boxes with valid JSON-LD schema to yo
 * Added compatibility with WordPress 5.9
 
 = 1.0.9 =
-* Improved plugin security.
+* Improved plugin security
 
 = 1.0.8 =
 * Improved the display of the panel in the admin
@@ -38,23 +41,23 @@ Add beautiful responsive and modern review boxes with valid JSON-LD schema to yo
 * Compatibility fixes for WordPress 5.5
 
 = 1.0.6 =
-* Improved google scheme.
-* Improved posts location.
+* Improved google scheme
+* Improved posts location
 
 = 1.0.5 =
-* Added support Post Views Counter.
+* Added support Post Views Counter
 
 = 1.0.4 =
-* Minor improvements.
+* Minor improvements
 
 = 1.0.3 =
-* Added css variables to styles.
+* Added css variables to styles
 
 = 1.0.2 =
-* Improve indicators.
+* Improve indicators
 
 = 1.0.1 =
-* Initial release.
+* Initial release
 
 = 1.0 =
-* Initial release.
+* Initial release
