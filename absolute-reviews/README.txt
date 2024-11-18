@@ -1,9 +1,9 @@
 === Absolute Reviews ===
 Tags: reviews, rating, review, schema.org
 Requires at least: 4.0
-Tested up to: 6.6
+Tested up to: 6.7
 Requires PHP: 5.4
-Stable tag: 1.1.4
+Stable tag: 1.1.5
 Contributors: codesupplyco
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -15,6 +15,9 @@ Add beautiful responsive and modern review boxes with valid JSON-LD schema to yo
 Add beautiful responsive and modern review boxes with valid JSON-LD schema to your posts with the “Advanced Reviews” plugin.
 
 == Changelog ==
+
+= 1.1.5 =
+* Added compatibility with WordPress 6.7
 
 = 1.1.4 =
 * Improved plugin security

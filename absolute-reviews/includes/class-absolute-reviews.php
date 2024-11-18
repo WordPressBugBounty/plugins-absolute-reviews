@@ -67,7 +67,7 @@ class ABR {
 		}
 
 		// Get plugin data.
-		$plugin_data = get_plugin_data( ABR_PATH . '/absolute-reviews.php' );
+		$plugin_data = get_plugin_data( ABR_PATH . '/absolute-reviews.php', false, false );
 
 		$this->version = $plugin_data['Version'];
 		$this->abr     = 'absolute-reviews';
@@ -76,7 +76,6 @@ class ABR {
 		$this->set_locale();
 		$this->define_admin_hooks();
 		$this->define_public_hooks();
-
 	}
 
 	/**
