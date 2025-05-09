@@ -1,4 +1,4 @@
-# Copyright (C) 2024 absolute-reviews
+# Copyright (C) 2025 absolute-reviews
 # This file is distributed under the same license as the absolute-reviews package.
 msgid ""
 msgstr ""
