@@ -1,7 +1,7 @@
 === Absolute Reviews ===
 Tags: reviews, rating, review, schema.org
 Requires at least: 4.0
-Tested up to: 6.8
+Tested up to: 6.9
 Requires PHP: 5.4
 Stable tag: 1.1.6
 Contributors: codesupplyco
